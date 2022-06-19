@@ -7,7 +7,11 @@ the heart. A heartbeat is a single cycle in which the heart’s chambers relax a
 blood. This cycle includes the opening and closing of the inlet and outlet valves of the right and left
 ventricles of the heart. An electrocardiogram (ECG) is a test that detects and records the strength
 and timing of cardiac electrical activity. The main goals of our project are :
+
   — Visualizing electrocardiogram (ECG) and analyzing the spectrogram obtained.
+  
   — Using Pan and Tompkins algorithm to detect the QRS complexes
+  
   — Deducing the position of P and T waves
+  
   — Using algorithms to detect cardiac pathologies automatically
